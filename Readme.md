@@ -1,4 +1,4 @@
-# Chat Application: Hirequotient Assignment
+# Chat Application
 
 **Introduction:**
 For this assignment, we're going to dive into creating a cool chat application! It's a fun project where we'll build a platform for people to chat with each other in real-time.
